@@ -32,3 +32,24 @@ There are several compelling reasons to undertake a project on predicting stock 
 
 
 Overall, this project provides a challenging and rewarding opportunity to apply your skills in data science and machine learning to a real-world problem with practical implications.
+## OBJECTIVE:
+We are going to implement an End-to-End project using Support Vector Machines to live Trade For us. You Probably must have Heard of the term stock market which is known to have made the lives of thousands and to have destroyed the lives of millions. If you are not familiar with the stock market you can surf some basic Stuff about markets.
+
+
+Tools and Technologies Used :
+•	Python
+•	Sklearn- Support Vector Classifier
+•	Kaggle Dataset
+•	Google – Collab
+
+
+Step by Step Implementation
+1.	Import the libraries
+2.	Read Stock  data
+3.	Data Preparation 
+4.	Define the explanatory variables
+5.	Define the target variable
+6.	Split the data into train and test
+7.	Support Vector Classifier (SVC)
+8.	Classifier accuracy
+9.	Strategy implementation
