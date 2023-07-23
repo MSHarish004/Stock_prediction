@@ -11,7 +11,7 @@ The experimental results show that the SVM model achieves an accuracy of 70% in 
 
 
 Overall, the study concludes that SVM is a suitable machine learning technique for predicting the direction of stock prices, and it can be effectively used for trading decisions in the stock market. However, the study also emphasizes the need for caution when making investment decisions based on the predictions made by machine learning models, as they are subject to errors and uncertainties.
-# MOTIVATION:
+## MOTIVATION:
 
 There are several compelling reasons to undertake a project on predicting stock price direction using support vector machines with reliance dataset:
 
