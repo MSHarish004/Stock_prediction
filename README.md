@@ -55,3 +55,5 @@ Step by Step Implementation
 9.	Strategy implementation
 ## Deploying Strategy To Live Market
 The Strategy Coded Can be easily deployed in the live market and can also be back-tested on any number of data throughout exchanges. The deployment can be easily done Using the BlueShift Platform. It is an Interactive Platform with Live Data Feed and connections through various Brokers. You can Do Back-testing On the BlueShift platform for any Number Of Time with data from various Exchanges.
+## Link of Dataset :
+      https://www.kaggle.com/datasets/dhruvanurag20/reliance-data
